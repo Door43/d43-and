@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[and:home|Door43 (and)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-and|d43-and repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-and/archive/master.zip|d43-and.zip]]
+
+**Recent Changes**
+{{changes>ns = and}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/and|Ethnologue data]]
+
